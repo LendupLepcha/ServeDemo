@@ -11,9 +11,5 @@ export class EmployeeDetailsComponent implements OnInit {
 
   ngOnInit() {
   }
-  employeeDetail=[
-    {id:1,name:'abc',dept:'CSE'},
-    {id:2,name:'xyz',dept:'ME'},
-    {id:3,name:'def',dept:'CE'}
-  ]
+  
 }
